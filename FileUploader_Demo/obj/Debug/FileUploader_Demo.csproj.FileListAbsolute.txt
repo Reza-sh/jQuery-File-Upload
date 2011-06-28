@@ -1,0 +1,7 @@
+C:\projects\Learnings\File_Uploader\FileUploader_Demo\FileUploader_Demo\bin\FileUploader_Demo.dll
+C:\projects\Learnings\File_Uploader\FileUploader_Demo\FileUploader_Demo\bin\FileUploader_Demo.pdb
+C:\projects\Learnings\File_Uploader\FileUploader_Demo\FileUploader_Demo\bin\EntityFramework.dll
+C:\projects\Learnings\File_Uploader\FileUploader_Demo\FileUploader_Demo\bin\EntityFramework.xml
+C:\projects\Learnings\File_Uploader\FileUploader_Demo\FileUploader_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\Learnings\File_Uploader\FileUploader_Demo\FileUploader_Demo\obj\Debug\FileUploader_Demo.dll
+C:\projects\Learnings\File_Uploader\FileUploader_Demo\FileUploader_Demo\obj\Debug\FileUploader_Demo.pdb
